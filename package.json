@@ -16,7 +16,7 @@
   "author": "Government Digital Service",
   "license": "MIT",
   "dependencies": {
-    "memwatch": "0.2.2",
+    "memwatch-next": "0.3.0",
     "docopt": "0.4.0",
     "mustache": "0.8.2",
     "tmp": "0.0.23",
