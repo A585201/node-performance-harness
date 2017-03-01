@@ -1,5 +1,5 @@
 
-var memwatch = require('{{{ perf_path }}}/node_modules/memwatch-plus'),
+var memwatch = require('{{{ perf_path }}}/node_modules/memwatch-next'),
     profiler = require('{{{ perf_path }}}/node_modules/cpu-profiler'),
     _ = require('{{{ perf_path }}}/node_modules/lodash');
 
